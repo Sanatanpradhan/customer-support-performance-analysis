@@ -28,8 +28,6 @@ Power Pivot (Data Model)
 
 PivotCharts
 
-DAX-style calculated columns/macros
-
 ## 🎯 KPIs Included
 
 AHT (Average Handling Time)

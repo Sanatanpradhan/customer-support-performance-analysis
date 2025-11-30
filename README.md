@@ -1,6 +1,13 @@
 # Support Excellence KPI Dashboard
 
+## 📥 Download Excel Dashboard
+🔽 **[Click here to download the full dashboard](./Helixone_KPI_Dashboard.xlsx)** 🔽
+ — Full dashboard
+
 This project provides a performance analysis of a support team using Excel dashboards, Power Pivot modeling and KPI visualizations.
+
+## 📸 Dashboard Preview
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 ## 📊 Dataset
 
@@ -20,13 +27,13 @@ Customer satisfaction
 
 Complaint categories
 
-## 🛠 Tools Used
-
-Microsoft Excel
-
-Power Pivot (Data Model)
-
-PivotCharts
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+- Power Pivot (Data Model)
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Calculated Fields
 
 ## 🎯 KPIs Included
 
@@ -64,12 +71,15 @@ Timeout % within acceptable range
 
 Top agents achieved >90% quality scores
 
-## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png)
+## 📈 Use Cases
+- Support Team Performance Analysis
+- SLA Monitoring
+- Agent Coaching & Quality Review
+- Workforce Planning by Meal-Time
+- Customer Satisfaction Reporting
 
-## 📁 Files
-
-## 📥 Download Excel Dashboard
-🔽 **[Click here to download the full dashboard](./Helixone_KPI_Dashboard.xlsx)** 🔽
- — Full dashboard
-
+## 🎯 Business Outcomes
+- Identified peak chat hours to optimize staffing
+- Highlighted SLA breaches to trigger process improvement
+- Compared agent-level performance to reward top performers
+- Segmented complaints to target operational fixes

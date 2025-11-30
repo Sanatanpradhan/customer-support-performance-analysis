@@ -64,10 +64,12 @@ Timeout % within acceptable range
 
 Top agents achieved >90% quality scores
 
+## 📸 Dashboard Preview
+![Dashboard Preview](Dashboard_Screenshot.png)
+
 ## 📁 Files
 
-Support_Excellence_KPI_Dashboard.xlsx — Full dashboard
+## 📥 Download Excel Dashboard
+🔽 **[Click here to download the full dashboard](./Helixone_KPI_Dashboard.xlsx)** 🔽
+ — Full dashboard
 
-data/anonymized_data.xlsx — Source dataset
-
-/images/ — Dashboard screenshots

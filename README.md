@@ -1,85 +1,98 @@
-# Support Excellence KPI Dashboard
+# 🧠 Support Excellence KPI Dashboard
 
-## 📥 Download Excel Dashboard
-🔽 **[Click here to download the full dashboard](./Helixone_KPI_Dashboard.xlsx)** 🔽
- — Full dashboard
+📥 **Download Excel Dashboard (Interactive)**  
+🔽 [Click here to download the full dashboard](./Helixone_KPI_Dashboard.xlsx) 🔽
 
-This project provides a performance analysis of a support team using Excel dashboards, Power Pivot modeling and KPI visualizations.
+This project analyzes customer support performance using Excel, Power Pivot data modeling, and KPI-based visualization.  
+The dashboard transforms operational datasets into actionable insights for workforce planning, SLA monitoring, and service quality improvement.
+
+---
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](Dashboard_Screenshot.png)
 
+---
+
 ## 📊 Dataset
+**Dataset is fully anonymized.**
 
-Data included is fully anonymized
+It includes:
+- Agent performance
+- SLA metrics
+- Quality audits
+- Login hours
+- Customer satisfaction
+- Complaint categories
 
-Contains:
+Dataset is embedded in the Excel file to ensure dashboard functionality.
 
-Agent performance
-
-SLA metrics
-
-Quality audits
-
-Login hours
-
-Customer satisfaction
-
-Complaint categories
+---
 
 ## 🛠️ Tools & Technologies
-- Microsoft Excel
-- Power Pivot (Data Model)
-- Pivot Charts
-- Slicers
-- Conditional Formatting
-- Calculated Fields
+- **Microsoft Excel**
+- **Power Pivot (Data Model)**
+- **Pivot Tables & Pivot Charts**
+- **Slicers & Interactivity**
+- **Conditional Formatting**
+- **Calculated Fields & Aggregations**
+
+---
 
 ## 🎯 KPIs Included
+- **AHT (Average Handling Time)**
+- **FCR (First Contact Resolution)**
+- **CSAT Score**
+- **Positive CSAT (4–5 Stars)**
+- **Quality Score**
+- **Login Hours**
+- **SLA Compliance %**
 
-AHT (Average Handling Time)
+> KPIs are benchmarked against team SLA targets and classified as **Achieved / Missed**.
 
-FCR (First Contact Resolution)
-
-CSAT score
-
-Quality Score
-
-Login Hours
-
-SLA Compliance
+---
 
 ## 🔥 Dashboard Highlights
+- **Meal-time chat volume insights**
+- **Node-wise complaint segmentation**
+- **SLA compliance visualization**
+- **Top Quality Champions (Top 5 agents)**
+- **Top Positive CSAT Executives**
 
-Meal-time chat volume trends
+The dashboard allows leaders to assess performance at both **macro level (team)** and **micro level (agent)**.
 
-Node-wise complaint analysis
-
-SLA Compliance with Achieved/Missed indicators
-
-Top Quality Agents
-
-Top Positive CSAT Agents
+---
 
 ## 💡 Key Insights
+- **Dinner time shows highest chat volume**
+- **Reject% exceeds SLA threshold — improvement needed**
+- **Timeout% remains within acceptable limits**
+- **Multiple agents achieved > 92% Quality Score**
+- **Order Spilled & Wrong Order drive high complaint volume**
 
-Dinner time has highest chat volume
+> Insights are derived from real support workloads but anonymized for data privacy.
 
-Reject % exceeded SLA threshold
-
-Timeout % within acceptable range
-
-Top agents achieved >90% quality scores
+---
 
 ## 📈 Use Cases
 - Support Team Performance Analysis
-- SLA Monitoring
-- Agent Coaching & Quality Review
+- SLA & Operational Monitoring
+- Quality Assurance & Coaching
 - Workforce Planning by Meal-Time
 - Customer Satisfaction Reporting
+- Agent Recognition & Incentive Design
+
+---
 
 ## 🎯 Business Outcomes
-- Identified peak chat hours to optimize staffing
-- Highlighted SLA breaches to trigger process improvement
-- Compared agent-level performance to reward top performers
-- Segmented complaints to target operational fixes
+- Identified **peak service periods** → optimize staffing
+- Highlighted **SLA breaches** → targeted process improvements
+- Compared **agent-level performance** → recognize high performers
+- Segmented complaints by category → **reduce repeat issues**
+- Improved insight into **service quality vs customer perception**
+
+---
+
+⭐ **This dashboard represents an end-to-end data analyst workflow:**
+> Raw data → cleansing → modeling → KPI creation → visualization → insights → business strategy
+
+---
